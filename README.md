@@ -1,5 +1,10 @@
 # 🧬 Codon Usage Analyzer
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Data](https://img.shields.io/badge/Data-Coding_DNA_(FASTA)-orange)
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
+
 A Python-based bioinformatics tool that analyzes **codon usage frequencies** in DNA coding sequences (CDS).  
 The script counts codons, calculates usage bias, and generates **bar plots, heatmaps, and comparison plots** between species or genes.  
 
