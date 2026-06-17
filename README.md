@@ -62,6 +62,12 @@ Second FASTA file path + label (optional, e.g., Mouse_HBB.fasta, "Mouse")
 + codon_comparison.png → side-by-side barplot (if 2 sequences given)
 + codon_diff_heatmap.png → codon bias difference heatmap
 
+### Codon Heatmap (Human HBB)
+![Codon Heatmap Human](outputs/codon_heatmap_Human.png)
+
+### Codon Bias Difference (Human vs Mouse)
+![Codon Diff Heatmap](outputs/codon_diff_heatmap.png)
+
 ---
 
 ## 🛠️ Requirements
